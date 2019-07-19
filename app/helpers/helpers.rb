@@ -2,9 +2,9 @@ class Helpers
 
   def current_user
 
-  end 
+  end
 
   def is_logged_in
 
-  end 
+  end
 end
