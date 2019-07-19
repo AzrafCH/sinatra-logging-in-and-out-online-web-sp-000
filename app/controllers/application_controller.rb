@@ -24,4 +24,3 @@ class ApplicationController < Sinatra::Base[5.1]
 
 
 end
-
